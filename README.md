@@ -1,8 +1,6 @@
 # Table_Image-to-CSV
 
-Tesseract has unicode (UTF-8) support, and can recognize more than 100 languages "out of the box".This project does not include a GUI application. If you need one, please see the 3rdParty documentation.
-
-Tesseract can be trained to recognize other languages. See Tesseract Training for more information.
+Tesseract has unicode (UTF-8) support, and can recognize more than 100 languages "out of the box".This project does not include a GUI application. If you need one, please see the 3rdParty documentation.Tesseract can be trained to recognize other languages. See Tesseract Training for more information.
 
 ### Installing Tesseract
 
