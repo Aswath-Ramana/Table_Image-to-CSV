@@ -2,8 +2,6 @@
 
 Tesseract has unicode (UTF-8) support, and can recognize more than 100 languages "out of the box".This project does not include a GUI application. If you need one, please see the 3rdParty documentation.Tesseract can be trained to recognize other languages. See Tesseract Training for more information.
 
-### Installing Tesseract
-
 #### WARNING:Tesseract should be either installed in the directory which is suggested during the installation or in a new directory. The uninstaller removes the whole installation directory. If you installed Tesseract in an existing directory, that directory will be removed with all its subdirectories and files.
 
 The latest installers can be downloaded here:
