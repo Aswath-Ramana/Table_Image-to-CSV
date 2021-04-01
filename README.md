@@ -22,14 +22,16 @@ python tabular_image-to-csv.py --img-path images/patient.png
 
 ### Project Structure:-
 
-a)[images]() :- This folder contains images to be used for OCR.
+a)[images](https://github.com/Aswath-Ramana/Table_Image-to-Excel/tree/main/images) :- This folder contains images to be used for OCR.
 
-b)[output_csv]() :- It contains result of tabular image in csv file.
+b)[output_csv](https://github.com/Aswath-Ramana/Table_Image-to-Excel/tree/main/output_csv) :- It contains result of tabular image in csv file.
 
-c)[processed_image]() :- Contains images generated while pre-processing.
+c)[processed_image](https://github.com/Aswath-Ramana/Table_Image-to-Excel/tree/main/processed_image) :- Contains images generated while pre-processing.
 
-d)[en-default.mlmodel]() :- Trained english language model.
+d)[en-default.mlmodel](https://github.com/Aswath-Ramana/Table_Image-to-Excel/blob/main/en-default.mlmodel) :- Trained english language model.
 
-e)[requirements.txt]() :- Requirement file.
+e)[requirements.txt](https://github.com/Aswath-Ramana/Table_Image-to-Excel/blob/main/requirements.txt) :- Requirement file.
 
-f)[tabular_image-to-csv.py]() :- Code file.
+f)[tabular_image-to-csv.py](https://github.com/Aswath-Ramana/Table_Image-to-Excel/blob/main/tabular_image-to-csv.py) :- Code file.
+
+g)[Table_image_csv.ipynb](https://github.com/Aswath-Ramana/Table_Image-to-Excel/blob/main/Table_Image%20to%20CSV.ipynb)- This notebook is small queries to convert the imag file to text and rearrange them as csv file.It doesn't find the table and extract,but it extract text and sort them as table file.
