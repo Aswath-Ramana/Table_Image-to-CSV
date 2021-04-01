@@ -7,4 +7,5 @@ Tesseract has unicode (UTF-8) support, and can recognize more than 100 languages
 The latest installers can be downloaded here:
 
 [tesseract-ocr-w32-setup-v5.0.0-alpha.20201127.exe (32 bit)](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w32-setup-v5.0.0-alpha.20201127.exe) and
+
 [tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe (64 bit)](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe) resp.
