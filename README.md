@@ -23,8 +23,13 @@ python tabular_image-to-csv.py --img-path images/patient.png
 ### Project Structure:-
 
 a)images :- This folder contains images to be used for OCR.
+
 b)output_csv :- It contains result of tabular image in csv file.
+
 c)processed_image :- Contains images generated while pre-processing.
+
 d)en-default.mlmodel :- Trained english language model.
+
 e)requirements.txt :- Requirement file.
+
 f)tabular_image-to-csv.py :- Code file.
