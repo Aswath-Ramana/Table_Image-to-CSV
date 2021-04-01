@@ -18,7 +18,7 @@ Install requirements from requirements.txt
 
 pip install -r requirements.txt
 
-pip install kracken (***if kraken is not installed from requirements.txt)
+pip install kracken (*** if kraken is not installed from requirements.txt ***)
 
 python tabular_image-to-csv.py --img-path images/patient.png
 
